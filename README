@@ -1,0 +1,19 @@
+place websocketP5 in your Processing libraries folder for me:
+
+~/Documents/Processing/libraries/
+
+1) run the processing sketch
+
+2) wait for camera to initalize
+
+3) open up Chrome and navigate to http://localhost:8080/
+
+4) be amazed
+
+Same process can be used for audio and in combination to create pure JavaScript video stream :) pretty crazy
+
+The trick is cramming the data into a base64 string. This technique could also be used to stream video from an iphone via websockets to a shared website? Just saying...
+
+stupid demo video to see order of operations and me being silly:
+
+http://www.flickr.com/photos/lateplate/6324380039/
